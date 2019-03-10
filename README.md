@@ -1,2 +1,0 @@
-# LearnTypeSscript
-Created with CodeSandbox
